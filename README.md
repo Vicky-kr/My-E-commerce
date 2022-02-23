@@ -13,10 +13,9 @@ This is a E-Commerce app.
 :----:|:----:|:----:|:----:
  <img width="200" height="400" src="./activities/ProductDetails.png"> |  <img width="200" height="400" src="./activities/MyCartActivity.png"> |  <img width="200" height="400" src="./activities/CheckoutActivity.png"> |  <img width="200" height="400" src="./activities/MyOrderDetailsActivity.png">
 
- <div align="center">
-
- SettingsActivity |
- :-------:|
- <img width="200" height="400" src="./activities/SettingsActivity.png">
+<div align = "center">
+ 
+ SettingsActivity	|	
+:----:|
+ <img width="200" height="400" src="./activities/SettingsActivity.png"> | 
 </div>
-
